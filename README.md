@@ -17,6 +17,9 @@ Comprobar
 ```C
 python3 --version
 ```
+## Instalar Qt Creator
+
+[Link](https://wiki.qt.io/Install_Qt_5_on_Ubuntu_Spanish)
 
 
  
