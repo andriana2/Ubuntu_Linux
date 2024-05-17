@@ -25,4 +25,5 @@ python3 --version
 ## Instralar KivyMD y hacer app
 
 [Video](https://www.youtube.com/watch?v=7oMNqAE_OVE)
+[Para botones](https://www.youtube.com/watch?v=EgG2RUxcA_k&list=PLdTjUCYwwUfoYGpyrCy0TC6EKehPD6Y44&index=2)
  
