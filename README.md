@@ -19,7 +19,10 @@ python3 --version
 ```
 ## Instalar Qt Creator
 
-[Link](https://wiki.qt.io/Install_Qt_5_on_Ubuntu_Spanish)
+[Pag web](https://wiki.qt.io/Install_Qt_5_on_Ubuntu_Spanish)
+[Video](https://www.youtube.com/watch?v=sjApF6qnyUI)
 
+## Instralar KivyMD y hacer app
 
+[Video](https://www.youtube.com/watch?v=7oMNqAE_OVE)
  
