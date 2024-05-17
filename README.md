@@ -26,4 +26,5 @@ python3 --version
 
 [Video](https://www.youtube.com/watch?v=7oMNqAE_OVE)
 [Para botones](https://www.youtube.com/watch?v=EgG2RUxcA_k&list=PLdTjUCYwwUfoYGpyrCy0TC6EKehPD6Y44&index=2)
+[Cambio tamaños pantalla](https://www.youtube.com/watch?v=htuxxWb2des)
  
