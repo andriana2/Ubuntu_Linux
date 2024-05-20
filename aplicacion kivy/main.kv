@@ -1,0 +1,24 @@
+<DemoProyect>:
+    Screen:
+        name: "RoboGait" 
+        MDLabel:
+            #id: screen1
+            text: "Hola mundo" #texto
+            halign: "center" # posción hola mundo
+
+        MDRaisedButton:
+            text: "Next Screen" #texto en el boton
+            pos_hint: {"center_x": .5, "center_y": .3} # forma de poner posicion boton
+            on_release: root.current = "RoboGait2" #solo se puede mover con el name
+
+
+    Screen:
+        name: "RoboGait2"
+        MDLabel:
+            #id: screen2
+            text: "Hola Robot"
+            halign: "center"
+        MDRaisedButton:
+            text: "Last Screen"
+            pos_hint: {"center_x": .5, "center_y": .3} 
+            on_release: root.current = "RoboGait"
