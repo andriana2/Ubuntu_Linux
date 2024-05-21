@@ -1,6 +1,6 @@
 ## como saber que ubuntu tines
 ````c
-lsb_release -a
+uname -a
 ````
 ## Lo que te tienes que instalar
 ````c
@@ -25,3 +25,7 @@ sudo apt install libglx-dev libgl1-mesa-dev
 ````c
 sudo apt install libglx-dev
 ````
+## Android
+[Pag Web](https://www.harshmittal.com/tutorials/Qt-Android-Deployment/) <br>
+[Puede servir para algo](https://www.youtube.com/watch?v=EBH0Sgs2ax8)
+
