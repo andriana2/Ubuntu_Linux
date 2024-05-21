@@ -16,6 +16,7 @@ Despues de estas dos se habre qt creator
 ## Istalación
 [instalación](https://www.youtube.com/watch?v=sjApF6qnyUI) <br>
 [Primer programa](https://www.youtube.com/watch?v=Bo5Og2fb1CA) <br>
+[Si me toca repetirlo seguir este video](https://www.youtube.com/watch?v=Ml7forZBWn4)
 
 ## Solucionar problemas
 [Dios](https://stackoverflow.com/questions/74034601/what-is-wrong-with-the-default-installation-of-qt6-on-ubuntu-22-04)
