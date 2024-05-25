@@ -29,4 +29,6 @@ python3 --version
 [parte 1 botones y imagenes](https://www.youtube.com/watch?v=gJ-E30uhWD0) <br>
 [parte 2 instalación en colab](https://www.youtube.com/watch?v=GTkKul8sA-c) <br>
 
+## Hacer nueva app
+
  
