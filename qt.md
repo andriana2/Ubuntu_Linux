@@ -33,7 +33,9 @@ El proyecto se abre en el primer "CMakeLists.txt" que veas
 ## Android
 [Pag Web](https://www.harshmittal.com/tutorials/Qt-Android-Deployment/) <br>
 [Puede servir para algo](https://www.youtube.com/watch?v=EBH0Sgs2ax8) <br>
-[Aplicaciones](https://doc.qt.io/qt-5/android-getting-started.html)
+[Aplicaciones](https://doc.qt.io/qt-5/android-getting-started.html) <br>
+[Pagina oficial video](https://doc.qt.io/qt-6/android-getting-started.html)
+
 
 ### Pasos a aseguir
 [Pasos pag web](https://developer.android.com/codelabs/basic-android-kotlin-compose-install-android-studio?hl=es-419#6)
