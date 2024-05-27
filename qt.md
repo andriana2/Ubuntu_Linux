@@ -6,9 +6,7 @@ uname -a
 ````c
 sudo apt-get install cmake
 ````
-````c
-sudo apt-get install libxcb-cursor0
-````
+
 Despues de estas dos se habre qt creator
 
 
@@ -20,6 +18,9 @@ Despues de estas dos se habre qt creator
 
 ## Solucionar problemas
 [Dios](https://stackoverflow.com/questions/74034601/what-is-wrong-with-the-default-installation-of-qt6-on-ubuntu-22-04)
+````c
+sudo apt-get install libxcb-cursor0
+````
 ````c
 sudo apt install libglx-dev libgl1-mesa-dev
 ````
