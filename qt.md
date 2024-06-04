@@ -40,3 +40,8 @@ El proyecto se abre en el primer "CMakeLists.txt" que veas
 ### Pasos a aseguir
 [Pasos pag web](https://developer.android.com/codelabs/basic-android-kotlin-compose-install-android-studio?hl=es-419#6)
 
+## Desinstalar qt
+[desinstalar](https://www.youtube.com/watch?v=YkGihPTIWKY)
+
+
+
