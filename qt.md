@@ -20,14 +20,12 @@ Despues de estas dos se habre qt creator
 ## Solucionar problemas
 [Dios](https://stackoverflow.com/questions/74034601/what-is-wrong-with-the-default-installation-of-qt6-on-ubuntu-22-04)
 ````c
-sudo apt-get install libxcb-cursor0
+sudo apt-get update && sudo apt-get upgrade
 ````
 ````c
-sudo apt install libglx-dev libgl1-mesa-dev
+sudo apt-get -y install build-essential openssl libssl-dev libssl1.0 libgl1-mesa-dev libqt5x11extras5 '^libxcb.*-dev' libx11-xcb-dev libglu1-mesa-dev libxrender-dev libxi-dev libxkbcommon-dev libxkbcommon-x11-dev
 ````
-````c
-sudo apt install libglx-dev
-````
+
 ## Abrir proyecto
 El proyecto se abre en el primer "CMakeLists.txt" que veas
 
@@ -35,7 +33,10 @@ El proyecto se abre en el primer "CMakeLists.txt" que veas
 [Pag Web](https://www.harshmittal.com/tutorials/Qt-Android-Deployment/) <br>
 [Puede servir para algo](https://www.youtube.com/watch?v=EBH0Sgs2ax8) <br>
 [Aplicaciones](https://doc.qt.io/qt-5/android-getting-started.html) <br>
-[Pagina oficial video](https://doc.qt.io/qt-6/android-getting-started.html)
+[Pagina oficial video](https://doc.qt.io/qt-6/android-getting-started.html) <br>
+Problema solucionado intalando la versión 13 de android así que a futuro puede ser el problema la incompatibilidad de aplicaciones.
+He tenido este error:
+
 
 
 ### Pasos a aseguir
