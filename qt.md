@@ -36,11 +36,11 @@ El proyecto se abre en el primer "CMakeLists.txt" que veas
 [Pagina oficial video](https://doc.qt.io/qt-6/android-getting-started.html) <br>
 Problema solucionado intalando la versión 13 de android así que a futuro puede ser el problema la incompatibilidad de aplicaciones.
 He tenido este error:
-
+![Error](/Errores/error_android_compativilidad.jpg)
 
 
 ### Pasos a aseguir
-[Pasos pag web](https://developer.android.com/codelabs/basic-android-kotlin-compose-install-android-studio?hl=es-419#6)
+[Pasos pag web](https://developer.android.com/codelabs/basic-android-kotlin-compose-install-android-studio?hl=es-419#6) <br>
 [Puede que me salve la vida](https://www.youtube.com/watch?v=WafdjRhyDRc)
 
 ## Desinstalar qt
