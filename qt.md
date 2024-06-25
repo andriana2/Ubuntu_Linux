@@ -32,7 +32,11 @@ El proyecto se abre en el primer "CMakeLists.txt" que veas
 ## Paso 2 Android + Qt
 
 ## Paso 3 Depurar en el movil
-[Imagen1]()
+<img src="Imagenes/Numero_compilacion.jpg" alt="Mi Imagen" width="200">  <img src="Imagenes/Opcion_de_desarrollador.jpg" alt="Mi Imagen" width="200">  <img src="Imagenes/Depuracion_USB.jpg" alt="Mi Imagen" width="200">
+
+[Ordenador](https://www.fosslinux.com/25170/how-to-install-and-setup-adb-tools-on-linux.htm)
+
+
 
 
 
