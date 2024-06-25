@@ -31,6 +31,10 @@ El proyecto se abre en el primer "CMakeLists.txt" que veas
 
 ## Paso 2 Android + Qt
 
+## Paso 3 Depurar en el movil
+[Imagen1]()
+
+
 
 
 
