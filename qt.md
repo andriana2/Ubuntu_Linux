@@ -36,6 +36,10 @@ El proyecto se abre en el primer "CMakeLists.txt" que veas
 Y la arquitectura de los moviles es armeabi-v7a en mi movil samsung es asi.<br><br>
 <img src="Imagenes/Numero_compilacion.jpg" alt="Mi Imagen" width="200">  <img src="Imagenes/Opcion_de_desarrollador.jpg" alt="Mi Imagen" width="200">  <img src="Imagenes/Depuracion_USB.jpg" alt="Mi Imagen" width="200">
 
+## Pasos 4 Instalar Qt Design Studio 
+[Video](https://www.youtube.com/watch?app=desktop&v=9l3peVHccaQ)
+[Descargar web qt design 1.2](https://download.qt.io/official_releases/qtdesignstudio/1.2.0/)
+
 
 
 
