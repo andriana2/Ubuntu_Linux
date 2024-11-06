@@ -28,15 +28,16 @@ El proyecto se abre en el primer "CMakeLists.txt" que veas
 [Puede servir para algo](https://www.youtube.com/watch?v=EBH0Sgs2ax8) <br>
 [Aplicaciones](https://doc.qt.io/qt-5/android-getting-started.html) <br>
 [Pagina oficial video](https://doc.qt.io/qt-6/android-getting-started.html) <br>
+## Paso 2 para el plugin de Ros2 + QT
+[Plugin qt japones](https://qiita.com/Yupopyoi/items/9bd819235352bb6dbdf0)
+## Paso 3 Android + Qt
 
-## Paso 2 Android + Qt
-
-## Paso 3 Depurar en el movil
+## Paso 4 Depurar en el movil
 [Ordenador ADB](https://www.fosslinux.com/25170/how-to-install-and-setup-adb-tools-on-linux.htm)<br><br>
 Y la arquitectura de los moviles es armeabi-v7a en mi movil samsung es asi.<br><br>
 <img src="Imagenes/Numero_compilacion.jpg" alt="Mi Imagen" width="200">  <img src="Imagenes/Opcion_de_desarrollador.jpg" alt="Mi Imagen" width="200">  <img src="Imagenes/Depuracion_USB.jpg" alt="Mi Imagen" width="200">
 
-## Pasos 4 Instalar Qt Design Studio 
+## Pasos 5 Instalar Qt Design Studio 
 [Video](https://www.youtube.com/watch?app=desktop&v=9l3peVHccaQ) <br>
 [Descargar web qt design 1.2](https://download.qt.io/official_releases/qtdesignstudio/1.2.0/) <br>
 [Version más reciente](https://download.qt.io/official_releases/qtdesignstudio/2.3.1/)
